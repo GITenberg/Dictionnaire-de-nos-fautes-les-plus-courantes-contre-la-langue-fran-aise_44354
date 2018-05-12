@@ -1,0 +1,25 @@
+_repo: Dictionnaire-de-nos-fautes-les-plus-courantes-contre-la-langue-fran-aise_44354
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44354-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rinfret, Raoul
+    gutenberg_agent_id: '42707'
+    url: http://www.gutenberg.org/2009/agents/42707
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44354'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Canada -- Dictionaries'
+- !lcc 'PC'
+title: Dictionnaire de nos fautes contre la langue française
+url: http://www.gutenberg.org/ebooks/44354
