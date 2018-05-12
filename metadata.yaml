@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42707'
     url: http://www.gutenberg.org/2009/agents/42707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44354#Dictionnaire-de-nos-fautes-les-plus-courantes-contre-la-langue-fran-aise
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
